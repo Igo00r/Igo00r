@@ -1,18 +1,19 @@
-<h1 align="center">👋 Olá, eu sou o Igor!</h1>
+<h1 align="center">👋 Olá, eu sou o Igoor!</h1>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP  
-- 📧 Contato: aigor9573@gmail.com
-- 🚀 Promissor na área de TI  
- 
+- 📧 Contato: aigor9573@gmail.com  
+- 🚀 Apaixonado por tecnologia, focado em evolução constante  
 
-Tenho grande interesse em desenvolvimento full stack e arquitetura de software. Estou sempre buscando aprender mais com projetos práticos, metodologias ágeis e novas tecnologias. Tenho experiência com linguagens como Java, Python e JavaScript, além de ferramentas como Git, GitHub, Figma e bancos de dados como PostgreSQL e Oracle.
+Sou um estudante de tecnologia em constante evolução, com forte interesse em **desenvolvimento full stack**, **arquitetura de software** e soluções que impactam positivamente a vida das pessoas. Estou sempre explorando novas tecnologias, colocando em prática o que aprendo e me desafiando em projetos reais.
 
-Estou sempre disposto a aplicar e evoluir meu conhecimento em projetos que envolvam propósito e inovação.
+Tenho experiência com linguagens como **Java**, **Python** e **JavaScript**, e utilizo ferramentas como **Git**, **GitHub**, **Figma**, **IntelliJ**, **VS Code**, além de trabalhar com bancos de dados como **PostgreSQL**, **MySQL** e **Oracle**. Também estudo metodologias ágeis, UX/UI e boas práticas de engenharia de software.
+
+💼 **Atualmente, estou em busca da minha primeira oportunidade no mercado de TI.**  
+Quero aplicar meus conhecimentos em um ambiente profissional, colaborar com equipes, aprender com pessoas experientes e contribuir com soluções criativas e eficientes.
+
+Acredito que a tecnologia é mais do que código: é uma ponte para transformar ideias em impacto. E estou pronto para fazer parte disso.
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igo00r&show_icons=true&theme=transparent)
----
-
 <div style="display: inline_block"><br>
   <!-- Linguagens de Programação -->
   <img align="center" alt="Igoor-Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
@@ -41,10 +42,15 @@ Estou sempre disposto a aplicar e evoluir meu conhecimento em projetos que envol
 </div>
 
 ---
+
+![Igoorr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Igo00r&show_icons=true&theme=transparent)
+
+---
+
 <div> 
-  <a href="(https://www.instagram.com/igoo0r__/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aigor9573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/igoo0r__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igoor-alves-197a232b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:aigor9573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
@@ -56,5 +62,5 @@ Estou sempre disposto a aplicar e evoluir meu conhecimento em projetos que envol
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil ✨</p>
+<p align="center"> Obrigado por visitar meu perfil! </p>
 
