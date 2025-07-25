@@ -45,7 +45,15 @@ Estou sempre disposto a aplicar e evoluir meu conhecimento em projetos que envol
   <a href="(https://www.instagram.com/igoo0r__/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aigor9573@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igoor-alves-197a232b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igo00r/Igo00r/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igo00r/Igo00r/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Igo00r/Igo00r/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil ✨</p>
