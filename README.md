@@ -8,7 +8,7 @@ Sou um estudante de tecnologia em constante evolução, com forte interesse em *
 
 Tenho experiência com linguagens como **Java**, **Python** e **JavaScript**, e utilizo ferramentas como **Git**, **GitHub**, **Figma**, **IntelliJ**, **VS Code**, além de trabalhar com bancos de dados como **PostgreSQL**, **MySQL** e **Oracle**. Também estudo metodologias ágeis, UX/UI e boas práticas de engenharia de software.
 
-💼 **Atualmente, estou em busca da minha primeira oportunidade no mercado de TI.**  
+💼  
 Quero aplicar meus conhecimentos em um ambiente profissional, colaborar com equipes, aprender com pessoas experientes e contribuir com soluções criativas e eficientes.
 
 Acredito que a tecnologia é mais do que código: é uma ponte para transformar ideias em impacto. E estou pronto para fazer parte disso.
